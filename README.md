@@ -1,4 +1,6 @@
 # THINKY
 
-This is a simple webapp created for fun-fact generator.
+A simple platform created to generate some random funny facts about things.
 It was created just for random fun purpose!
+
+In progress...
